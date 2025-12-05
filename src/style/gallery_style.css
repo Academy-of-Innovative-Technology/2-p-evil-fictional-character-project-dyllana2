@@ -1,0 +1,21 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    background-image: url("https://pm1.aminoapps.com/7132/b9c52395cda7ed6537142ebbb765355e4dbfd21br1-1200-545v2_hq.jpg");
+}
+h1{
+    text-align: center;
+    color:rgb(34, 67, 96);
+    font-size: 100px;
+}
+img{
+    width: 500px;
+    height: 700px;
+}
+
+#returns{
+    font-size: 30px;
+}
